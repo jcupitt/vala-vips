@@ -1,0 +1,15 @@
+Object.new_from_string skip
+Object.print_summary_class skip
+
+Argument skip
+ArgumentClass skip
+ArgumentClassMapFn skip
+ArgumentInstance skip
+ArgumentMapFn skip
+ArgumentTable skip
+Object.argument_table skip
+
+ClassMapFn skip
+class_find skip
+
+Operation abstract="0" 
